@@ -1,0 +1,42 @@
+# Environment
+.env
+.env.*
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+logs/
+
+# Database
+data/*.db
+data/*.sqlite
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Screenshots
+screenshots/
