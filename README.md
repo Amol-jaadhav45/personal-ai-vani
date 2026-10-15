@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 Vani — Autonomous Agentic AI Assistant
 
 A modern, enterprise-ready Windows desktop assistant built with Python.
@@ -254,3 +255,6 @@ This makes the code easy to test, extend, and understand.
 ## 📄 License
 
 MIT License — free to use for educational purposes.
+=======
+# personal-ai-vani
+>>>>>>> 5cd8d82c30d4bd6d373d466f2de74ec98abaf71a
